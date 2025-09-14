@@ -272,7 +272,6 @@ collection:
           modified: 1746909722526
           sortKey: -1746909713633
           description: ""
-
         children:
           - url: http://localhost:8000/api/friend-request/send
             name: send Friend Request
