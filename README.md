@@ -6,8 +6,7 @@ Here is the design for e-Gzaz project: [View on Figma](https://www.figma.com/des
 [![Render Deployment](https://img.shields.io/badge/Backend-Live%20on%20Render-blue?logo=render)](https://egaza-backend.onrender.com)
 ## 🗄️ Database
 - Provider: [Supabase](https://supabase.com)  
-- Type: PostgreSQL  
-- Dashboard: [View Database Schema](https://supabase.com/dashboard/project/nwfkjjxybpgnouyfflab/database/schemas)
-
+- Type: PostgreSQL
+- 
 
 
