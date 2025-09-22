@@ -7,6 +7,6 @@ Here is the design for e-Gzaz project: [View on Figma](https://www.figma.com/des
 ## 🗄️ Database
 - Provider: [Supabase](https://supabase.com)  
 - Type: PostgreSQL
-- 
+  
 
 
